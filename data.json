@@ -423,7 +423,7 @@
     "category": "clothes",
     "product": "jacket",
     "brand": "The North",
-    "value": "Face 280",
+    "value": 280,
     "soldAt": "January"
   },
   {
@@ -444,7 +444,7 @@
     "category": "clothes",
     "product": "jacket",
     "brand": "The North",
-    "value": "Face 350",
+    "value": 350,
     "soldAt": "April"
   },
   {
@@ -465,7 +465,7 @@
     "category": "clothes",
     "product": "jacket",
     "brand": "The North",
-    "value": "Face 400",
+    "value": 400,
     "soldAt": "March"
   },
   {
@@ -486,7 +486,7 @@
     "category": "clothes",
     "product": "jacket",
     "brand": "The North",
-    "value": "Face 370",
+    "value": 370,
     "soldAt": "February"
   },
   {
