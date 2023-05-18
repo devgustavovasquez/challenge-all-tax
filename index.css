@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  background-color: rgb(0, 0, 100);
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 100px;
+  color: white;
+}
+
+.filters {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.filters__option {
+  margin: 0 10px;
+}
+
+.chart {
+  margin-top: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+canvas {
+  max-width: 1000px;
+  max-height: 500px;
+}

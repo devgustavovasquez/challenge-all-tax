@@ -1,0 +1,758 @@
+[
+  {
+    "category": "food",
+    "product": "cereal",
+    "brand": "Kellogg's",
+    "value": 250,
+    "soldAt": "January"
+  },
+  {
+    "category": "food",
+    "product": "cereal",
+    "brand": "Nestlé",
+    "value": 400,
+    "soldAt": "February"
+  },
+  {
+    "category": "food",
+    "product": "cereal",
+    "brand": "Quaker",
+    "value": 150,
+    "soldAt": "March"
+  },
+  {
+    "category": "food",
+    "product": "cereal",
+    "brand": "Kellogg's",
+    "value": 300,
+    "soldAt": "April"
+  },
+  {
+    "category": "food",
+    "product": "cereal",
+    "brand": "Nestlé",
+    "value": 450,
+    "soldAt": "January"
+  },
+  {
+    "category": "food",
+    "product": "cereal",
+    "brand": "Quaker",
+    "value": 200,
+    "soldAt": "February"
+  },
+  {
+    "category": "food",
+    "product": "cereal",
+    "brand": "Kellogg's",
+    "value": 350,
+    "soldAt": "March"
+  },
+  {
+    "category": "food",
+    "product": "cereal",
+    "brand": "Nestlé",
+    "value": 550,
+    "soldAt": "April"
+  },
+  {
+    "category": "food",
+    "product": "cereal",
+    "brand": "Quaker",
+    "value": 100,
+    "soldAt": "January"
+  },
+  {
+    "category": "food",
+    "product": "cereal",
+    "brand": "Kellogg's",
+    "value": 300,
+    "soldAt": "February"
+  },
+  {
+    "category": "food",
+    "product": "cereal",
+    "brand": "Nestlé",
+    "value": 200,
+    "soldAt": "March"
+  },
+  {
+    "category": "food",
+    "product": "cereal",
+    "brand": "Quaker",
+    "value": 400,
+    "soldAt": "April"
+  },
+  {
+    "category": "food",
+    "product": "bread",
+    "brand": "Kellogg's",
+    "value": 150,
+    "soldAt": "January"
+  },
+  {
+    "category": "food",
+    "product": "bread",
+    "brand": "Nestlé",
+    "value": 300,
+    "soldAt": "February"
+  },
+  {
+    "category": "food",
+    "product": "bread",
+    "brand": "Quaker",
+    "value": 200,
+    "soldAt": "March"
+  },
+  {
+    "category": "food",
+    "product": "bread",
+    "brand": "Kellogg's",
+    "value": 250,
+    "soldAt": "April"
+  },
+  {
+    "category": "food",
+    "product": "bread",
+    "brand": "Nestlé",
+    "value": 400,
+    "soldAt": "January"
+  },
+  {
+    "category": "food",
+    "product": "bread",
+    "brand": "Quaker",
+    "value": 500,
+    "soldAt": "February"
+  },
+  {
+    "category": "food",
+    "product": "bread",
+    "brand": "Kellogg's",
+    "value": 600,
+    "soldAt": "March"
+  },
+  {
+    "category": "food",
+    "product": "bread",
+    "brand": "Nestlé",
+    "value": 550,
+    "soldAt": "April"
+  },
+  {
+    "category": "food",
+    "product": "bread",
+    "brand": "Quaker",
+    "value": 250,
+    "soldAt": "January"
+  },
+  {
+    "category": "food",
+    "product": "bread",
+    "brand": "Kellogg's",
+    "value": 150,
+    "soldAt": "February"
+  },
+  {
+    "category": "food",
+    "product": "bread",
+    "brand": "Nestlé",
+    "value": 350,
+    "soldAt": "March"
+  },
+  {
+    "category": "food",
+    "product": "bread",
+    "brand": "Quaker",
+    "value": 200,
+    "soldAt": "April"
+  },
+  {
+    "category": "food",
+    "product": "noodle",
+    "brand": "Kellogg's",
+    "value": 200,
+    "soldAt": "January"
+  },
+  {
+    "category": "food",
+    "product": "noodle",
+    "brand": "Nestlé",
+    "value": 350,
+    "soldAt": "February"
+  },
+  {
+    "category": "food",
+    "product": "noodle",
+    "brand": "Quaker",
+    "value": 400,
+    "soldAt": "March"
+  },
+  {
+    "category": "food",
+    "product": "noodle",
+    "brand": "Kellogg's",
+    "value": 300,
+    "soldAt": "April"
+  },
+  {
+    "category": "food",
+    "product": "noodle",
+    "brand": "Nestlé",
+    "value": 500,
+    "soldAt": "January"
+  },
+  {
+    "category": "food",
+    "product": "noodle",
+    "brand": "Quaker",
+    "value": 250,
+    "soldAt": "February"
+  },
+  {
+    "category": "food",
+    "product": "noodle",
+    "brand": "Kellogg's",
+    "value": 450,
+    "soldAt": "March"
+  },
+  {
+    "category": "food",
+    "product": "noodle",
+    "brand": "Nestlé",
+    "value": 350,
+    "soldAt": "April"
+  },
+  {
+    "category": "food",
+    "product": "noodle",
+    "brand": "Quaker",
+    "value": 300,
+    "soldAt": "January"
+  },
+  {
+    "category": "food",
+    "product": "noodle",
+    "brand": "Kellogg's",
+    "value": 200,
+    "soldAt": "February"
+  },
+  {
+    "category": "food",
+    "product": "noodle",
+    "brand": "Nestlé",
+    "value": 100,
+    "soldAt": "March"
+  },
+  {
+    "category": "food",
+    "product": "noodle",
+    "brand": "Quaker",
+    "value": 150,
+    "soldAt": "April"
+  },
+  {
+    "category": "clothes",
+    "product": "t-shirt",
+    "brand": "Nike",
+    "value": 180,
+    "soldAt": "January"
+  },
+  {
+    "category": "clothes",
+    "product": "t-shirt",
+    "brand": "Adidas",
+    "value": 220,
+    "soldAt": "February"
+  },
+  {
+    "category": "clothes",
+    "product": "t-shirt",
+    "brand": "Puma",
+    "value": 150,
+    "soldAt": "March"
+  },
+  {
+    "category": "clothes",
+    "product": "t-shirt",
+    "brand": "Nike",
+    "value": 300,
+    "soldAt": "April"
+  },
+  {
+    "category": "clothes",
+    "product": "t-shirt",
+    "brand": "Adidas",
+    "value": 250,
+    "soldAt": "January"
+  },
+  {
+    "category": "clothes",
+    "product": "t-shirt",
+    "brand": "Puma",
+    "value": 190,
+    "soldAt": "February"
+  },
+  {
+    "category": "clothes",
+    "product": "t-shirt",
+    "brand": "Nike",
+    "value": 320,
+    "soldAt": "March"
+  },
+  {
+    "category": "clothes",
+    "product": "t-shirt",
+    "brand": "Adidas",
+    "value": 280,
+    "soldAt": "April"
+  },
+  {
+    "category": "clothes",
+    "product": "t-shirt",
+    "brand": "Puma",
+    "value": 200,
+    "soldAt": "January"
+  },
+  {
+    "category": "clothes",
+    "product": "t-shirt",
+    "brand": "Nike",
+    "value": 260,
+    "soldAt": "February"
+  },
+  {
+    "category": "clothes",
+    "product": "t-shirt",
+    "brand": "Adidas",
+    "value": 180,
+    "soldAt": "March"
+  },
+  {
+    "category": "clothes",
+    "product": "t-shirt",
+    "brand": "Puma",
+    "value": 240,
+    "soldAt": "April"
+  },
+  {
+    "category": "clothes",
+    "product": "jeans",
+    "brand": "Levi's",
+    "value": 350,
+    "soldAt": "January"
+  },
+  {
+    "category": "clothes",
+    "product": "jeans",
+    "brand": "Wrangler",
+    "value": 400,
+    "soldAt": "February"
+  },
+  {
+    "category": "clothes",
+    "product": "jeans",
+    "brand": "Diesel",
+    "value": 320,
+    "soldAt": "March"
+  },
+  {
+    "category": "clothes",
+    "product": "jeans",
+    "brand": "Levi's",
+    "value": 380,
+    "soldAt": "April"
+  },
+  {
+    "category": "clothes",
+    "product": "jeans",
+    "brand": "Wrangler",
+    "value": 420,
+    "soldAt": "January"
+  },
+  {
+    "category": "clothes",
+    "product": "jeans",
+    "brand": "Diesel",
+    "value": 350,
+    "soldAt": "February"
+  },
+  {
+    "category": "clothes",
+    "product": "jeans",
+    "brand": "Levi's",
+    "value": 400,
+    "soldAt": "March"
+  },
+  {
+    "category": "clothes",
+    "product": "jeans",
+    "brand": "Wrangler",
+    "value": 380,
+    "soldAt": "April"
+  },
+  {
+    "category": "clothes",
+    "product": "jeans",
+    "brand": "Diesel",
+    "value": 300,
+    "soldAt": "January"
+  },
+  {
+    "category": "clothes",
+    "product": "jeans",
+    "brand": "Levi's",
+    "value": 360,
+    "soldAt": "February"
+  },
+  {
+    "category": "clothes",
+    "product": "jeans",
+    "brand": "Wrangler",
+    "value": 340,
+    "soldAt": "March"
+  },
+  {
+    "category": "clothes",
+    "product": "jeans",
+    "brand": "Diesel",
+    "value": 390,
+    "soldAt": "April"
+  },
+  {
+    "category": "clothes",
+    "product": "jacket",
+    "brand": "The North",
+    "value": "Face 280",
+    "soldAt": "January"
+  },
+  {
+    "category": "clothes",
+    "product": "jacket",
+    "brand": "Columbia",
+    "value": 320,
+    "soldAt": "February"
+  },
+  {
+    "category": "clothes",
+    "product": "jacket",
+    "brand": "Patagonia",
+    "value": 250,
+    "soldAt": "March"
+  },
+  {
+    "category": "clothes",
+    "product": "jacket",
+    "brand": "The North",
+    "value": "Face 350",
+    "soldAt": "April"
+  },
+  {
+    "category": "clothes",
+    "product": "jacket",
+    "brand": "Columbia",
+    "value": 380,
+    "soldAt": "January"
+  },
+  {
+    "category": "clothes",
+    "product": "jacket",
+    "brand": "Patagonia",
+    "value": 290,
+    "soldAt": "February"
+  },
+  {
+    "category": "clothes",
+    "product": "jacket",
+    "brand": "The North",
+    "value": "Face 400",
+    "soldAt": "March"
+  },
+  {
+    "category": "clothes",
+    "product": "jacket",
+    "brand": "Columbia",
+    "value": 350,
+    "soldAt": "April"
+  },
+  {
+    "category": "clothes",
+    "product": "jacket",
+    "brand": "Patagonia",
+    "value": 320,
+    "soldAt": "January"
+  },
+  {
+    "category": "clothes",
+    "product": "jacket",
+    "brand": "The North",
+    "value": "Face 370",
+    "soldAt": "February"
+  },
+  {
+    "category": "clothes",
+    "product": "jacket",
+    "brand": "Columbia",
+    "value": 300,
+    "soldAt": "March"
+  },
+  {
+    "category": "clothes",
+    "product": "jacket",
+    "brand": "Patagonia",
+    "value": 420,
+    "soldAt": "April"
+  },
+  {
+    "category": "autos",
+    "product": "sedan",
+    "brand": "Toyota",
+    "value": 200,
+    "soldAt": "January"
+  },
+  {
+    "category": "autos",
+    "product": "sedan",
+    "brand": "Honda",
+    "value": 250,
+    "soldAt": "February"
+  },
+  {
+    "category": "autos",
+    "product": "sedan",
+    "brand": "Ford",
+    "value": 220,
+    "soldAt": "March"
+  },
+  {
+    "category": "autos",
+    "product": "sedan",
+    "brand": "Toyota",
+    "value": 280,
+    "soldAt": "April"
+  },
+  {
+    "category": "autos",
+    "product": "sedan",
+    "brand": "Honda",
+    "value": 300,
+    "soldAt": "January"
+  },
+  {
+    "category": "autos",
+    "product": "sedan",
+    "brand": "Ford",
+    "value": 240,
+    "soldAt": "February"
+  },
+  {
+    "category": "autos",
+    "product": "sedan",
+    "brand": "Toyota",
+    "value": 320,
+    "soldAt": "March"
+  },
+  {
+    "category": "autos",
+    "product": "sedan",
+    "brand": "Honda",
+    "value": 350,
+    "soldAt": "April"
+  },
+  {
+    "category": "autos",
+    "product": "sedan",
+    "brand": "Ford",
+    "value": 280,
+    "soldAt": "January"
+  },
+  {
+    "category": "autos",
+    "product": "sedan",
+    "brand": "Toyota",
+    "value": 260,
+    "soldAt": "February"
+  },
+  {
+    "category": "autos",
+    "product": "sedan",
+    "brand": "Honda",
+    "value": 330,
+    "soldAt": "March"
+  },
+  {
+    "category": "autos",
+    "product": "sedan",
+    "brand": "Ford",
+    "value": 290,
+    "soldAt": "April"
+  },
+  {
+    "category": "autos",
+    "product": "SUV",
+    "brand": "Toyota",
+    "value": 350,
+    "soldAt": "January"
+  },
+  {
+    "category": "autos",
+    "product": "SUV",
+    "brand": "Honda",
+    "value": 400,
+    "soldAt": "February"
+  },
+  {
+    "category": "autos",
+    "product": "SUV",
+    "brand": "Ford",
+    "value": 380,
+    "soldAt": "March"
+  },
+  {
+    "category": "autos",
+    "product": "SUV",
+    "brand": "Toyota",
+    "value": 420,
+    "soldAt": "April"
+  },
+  {
+    "category": "autos",
+    "product": "SUV",
+    "brand": "Honda",
+    "value": 450,
+    "soldAt": "January"
+  },
+  {
+    "category": "autos",
+    "product": "SUV",
+    "brand": "Ford",
+    "value": 420,
+    "soldAt": "February"
+  },
+  {
+    "category": "autos",
+    "product": "SUV",
+    "brand": "Toyota",
+    "value": 470,
+    "soldAt": "March"
+  },
+  {
+    "category": "autos",
+    "product": "SUV",
+    "brand": "Honda",
+    "value": 490,
+    "soldAt": "April"
+  },
+  {
+    "category": "autos",
+    "product": "SUV",
+    "brand": "Ford",
+    "value": 400,
+    "soldAt": "January"
+  },
+  {
+    "category": "autos",
+    "product": "SUV",
+    "brand": "Toyota",
+    "value": 440,
+    "soldAt": "February"
+  },
+  {
+    "category": "autos",
+    "product": "SUV",
+    "brand": "Honda",
+    "value": 460,
+    "soldAt": "March"
+  },
+  {
+    "category": "autos",
+    "product": "SUV",
+    "brand": "Ford",
+    "value": 480,
+    "soldAt": "April"
+  },
+  {
+    "category": "autos",
+    "product": "truck",
+    "brand": "Toyota",
+    "value": 500,
+    "soldAt": "January"
+  },
+  {
+    "category": "autos",
+    "product": "truck",
+    "brand": "Honda",
+    "value": 550,
+    "soldAt": "February"
+  },
+  {
+    "category": "autos",
+    "product": "truck",
+    "brand": "Ford",
+    "value": 530,
+    "soldAt": "March"
+  },
+  {
+    "category": "autos",
+    "product": "truck",
+    "brand": "Toyota",
+    "value": 580,
+    "soldAt": "April"
+  },
+  {
+    "category": "autos",
+    "product": "truck",
+    "brand": "Honda",
+    "value": 600,
+    "soldAt": "January"
+  },
+  {
+    "category": "autos",
+    "product": "truck",
+    "brand": "Ford",
+    "value": 590,
+    "soldAt": "February"
+  },
+  {
+    "category": "autos",
+    "product": "truck",
+    "brand": "Toyota",
+    "value": 570,
+    "soldAt": "March"
+  },
+  {
+    "category": "autos",
+    "product": "truck",
+    "brand": "Honda",
+    "value": 560,
+    "soldAt": "April"
+  },
+  {
+    "category": "autos",
+    "product": "truck",
+    "brand": "Ford",
+    "value": 520,
+    "soldAt": "January"
+  },
+  {
+    "category": "autos",
+    "product": "truck",
+    "brand": "Toyota",
+    "value": 530,
+    "soldAt": "February"
+  },
+  {
+    "category": "autos",
+    "product": "truck",
+    "brand": "Honda",
+    "value": 510,
+    "soldAt": "March"
+  },
+  {
+    "category": "autos",
+    "product": "truck",
+    "brand": "Ford",
+    "value": 540,
+    "soldAt": "April"
+  }
+]

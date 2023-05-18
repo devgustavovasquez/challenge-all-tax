@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="index.css" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <title>Challenge All Tax</title>
+  </head>
+  <body>
+    <nav class="navbar">
+      <h2>Menu</h2>
+      <h2>User Menu</h2>
+      <h2>Sales Report</h2>
+    </nav>
+
+    <main>
+      <div class="filters">
+        <div class="filters__option">
+          <label for="category">Categoria</label>
+          <select id="category">
+            <option value="food"></option>
+            <option value="clothes"></option>
+            <option value="autos"></option>
+          </select>
+        </div>
+
+        <div class="filters__option">
+          <label for="product">Produto</label>
+          <select id="product">
+            <option value=""></option>
+            <option value=""></option>
+            <option value=""></option>
+          </select>
+        </div>
+
+        <div class="filters__option">
+          <label for="brand">Marca</label>
+          <select id="brand">
+            <option value=""></option>
+            <option value=""></option>
+            <option value=""></option>
+          </select>
+        </div>
+      </div>
+
+      <div class="chart">
+        <canvas id="salesChart"></canvas>
+      </div>
+    </main>
+    <script type="module" src="index.js"></script>
+  </body>
+</html>
