@@ -2,6 +2,10 @@ const jsonFile = "data.json";
 let initialData = [];
 const separatedData = [];
 
+const categorySelect = document.getElementById("category");
+const productSelect = document.getElementById("product");
+const brandSelect = document.getElementById("brand");
+
 async function loadJSONFile(file) {
   try {
     const response = await fetch(file);
@@ -51,7 +55,6 @@ function separateData(data) {
 loadJSONFile(jsonFile)
   .then((data) => {
     const separatedData = separateData(data);
-    console.log(separatedData);
     initialData = data;
     initializeSelects(separatedData);
     updateChart();
@@ -62,6 +65,7 @@ loadJSONFile(jsonFile)
 
 function fillSelect(selectId, options) {
   const select = document.getElementById(selectId);
+  const selectedValue = select.value || options[0];
 
   select.innerHTML = "";
 
@@ -71,22 +75,22 @@ function fillSelect(selectId, options) {
     optionElement.textContent = option;
     select.appendChild(optionElement);
   });
+
+  select.value = selectedValue;
 }
 
 function updateSelects(data) {
-  const categorySelect = document.getElementById("category");
-  const productSelect = document.getElementById("product");
-  const brandSelect = document.getElementById("brand");
-
   const selectedCategory = categorySelect.value;
 
   const selectedCategoryData = data.find(
     (item) => item.category === selectedCategory
   );
+
   if (selectedCategoryData) {
     const products = selectedCategoryData.products.map(
       (product) => product.name
     );
+
     fillSelect("product", products);
 
     const selectedProduct = productSelect.value;
@@ -99,6 +103,8 @@ function updateSelects(data) {
       fillSelect("brand", brands);
     }
   }
+
+  updateChart();
 }
 
 function initializeSelects(data) {
@@ -107,12 +113,16 @@ function initializeSelects(data) {
   updateSelects(data);
 }
 
-document.getElementById("category").addEventListener("change", function () {
+categorySelect.addEventListener("change", function () {
   updateSelects(separatedData);
 });
 
-document.getElementById("product").addEventListener("change", function () {
+productSelect.addEventListener("change", function () {
   updateSelects(separatedData);
+});
+
+brandSelect.addEventListener("change", function () {
+  updateChart();
 });
 
 let chart;
@@ -167,18 +177,10 @@ function createChart(selectedCategory, selectedProduct, selectedBrand) {
   });
 }
 
-const categorySelect = document.getElementById("category");
-const productSelect = document.getElementById("product");
-const brandSelect = document.getElementById("brand");
-
-categorySelect.addEventListener("change", updateChart);
-productSelect.addEventListener("change", updateChart);
-brandSelect.addEventListener("change", updateChart);
-
 function updateChart() {
-  const selectedCategory = categorySelect.value;
-  const selectedProduct = productSelect.value;
-  const selectedBrand = brandSelect.value;
+  const categoryValue = categorySelect.value;
+  const productValue = productSelect.value;
+  const brandValue = brandSelect.value;
 
-  createChart(selectedCategory, selectedProduct, selectedBrand);
+  createChart(categoryValue, productValue, brandValue);
 }
